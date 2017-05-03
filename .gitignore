@@ -1,0 +1,6 @@
+*.nc
+*.png
+*.ipynb_checkpoints
+*Example Notebooks/
+*data/
+
